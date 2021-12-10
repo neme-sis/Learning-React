@@ -1,1 +1,3 @@
 # Learning-React
+# Welcome to my repository
+# Let's Try to figure out what React is...
